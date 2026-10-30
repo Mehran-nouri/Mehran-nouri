@@ -1,11 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:102A43,100:0D1117&text=MEHRAN%20NOURI&fontSize=48&fontColor=E6EDF3&fontAlignY=45&desc=FRONTEND%20DEVELOPER&descSize=15&descAlignY=65&descColor=58A6FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=150&section=header&text=Mehran%20Nouri&fontSize=46&fontColor=E6EDF3&fontAlignY=45&desc=Frontend%20Developer&descSize=16&descColor=58A6FF&descAlignY=72" width="100%" />
 
 <br/>
 
-### Turning ideas into clean, functional web experiences.
+**Building modern and meaningful web experiences.**
 
 `Design` · `Develop` · `Improve`
 
@@ -22,7 +22,7 @@ I'm Mehran, a frontend developer passionate about creating modern, responsive, a
 - 🛠️ Exploring modern web technologies
 - 📍 Iran
 
-### Technologies & Tools
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,react,ts,git,github,figma&theme=dark" />
@@ -42,10 +42,8 @@ I'm Mehran, a frontend developer passionate about creating modern, responsive, a
   </a>
 </p>
 
-<div align="center">
-
 ---
 
-<sub>Code. Build. Learn. Repeat.</sub>
-
+<div align="center">
+  <sub>Code. Build. Learn. Repeat.</sub>
 </div>
