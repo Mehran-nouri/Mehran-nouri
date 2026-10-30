@@ -1,47 +1,51 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:161B22&height=180&section=header&text=MEHRAN%20NOURI&fontSize=42&fontColor=58A6FF&fontAlignY=40&desc=Frontend%20Developer&descSize=17&descColor=C9D1D9&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:102A43,100:0D1117&text=MEHRAN%20NOURI&fontSize=48&fontColor=E6EDF3&fontAlignY=45&desc=FRONTEND%20DEVELOPER&descSize=15&descAlignY=65&descColor=58A6FF" width="100%" />
 
 <br/>
 
-**Building ideas into digital experiences.**
+### Turning ideas into clean, functional web experiences.
 
-`Code` · `Create` · `Improve`
+`Design` · `Develop` · `Improve`
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- Frontend Developer & Computer Science Student
-- Interested in clean UI and modern web technologies
-- Currently exploring **React** and **TypeScript**
-- Based in Iran 🇮🇷
+I'm Mehran, a frontend developer passionate about creating modern, responsive, and user-friendly web experiences.
 
-### ⚡ Tech Stack
+- 🎯 Focused on frontend development
+- 🌱 Currently learning React & TypeScript
+- 🛠️ Exploring modern web technologies
+- 📍 Iran
+
+### Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,react,ts,git,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,tailwind,react,ts,git,github,figma&theme=dark" />
 </p>
 
-### 🌐 Connect
+### Connect With Me
 
 <p align="center">
   <a href="mailto:lmn.nml.051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://www.instagram.com/mehran__nouri__/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
   <a href="https://t.me/MehranME_Channel">
-    <img src="https://img.shields.io/badge/Telegram-161B22?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+    <img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
   </a>
 </p>
 
+<div align="center">
+
 ---
 
-<div align="center">
-  <i>“Code. Build. Learn. Repeat.”</i>
+<sub>Code. Build. Learn. Repeat.</sub>
+
 </div>
