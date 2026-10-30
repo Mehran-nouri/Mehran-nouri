@@ -1,55 +1,41 @@
 <div align="center">
 
+<!-- ==================== HEADER ==================== -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0E75B6,100:000000&height=250&section=header&text=MEHRAN%20NOURI&fontSize=70&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Student&descAlignY=60&descSize=20" width="100%"/>
+
+<!-- ==================== TYPING EFFECT ==================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Mehran+Nouri+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%3E_+SYSTEM+BOOTING...;%3E_+ACCESS+GRANTED+%F0%9F%94%93;%3E_+Welcome+to+Mehran's+Profile;%3E_+Status%3A+Frontend+Developer+%F0%9F%92%BB;%3E_+Building+the+future+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=50&lines=Frontend+Developer+%7C+Student;Building+clean+and+responsive+UIs;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<br><br>
 
-<br>
+<!-- ==================== BADGES ==================== -->
+<img src="https://komarev.com/ghpvc/?username=Mehran-nouri&label=PROFILE%20VIEWS&color=00FF41&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/STATUS-CODING_%F0%9F%92%BB-00FF41?style=for-the-badge&labelColor=000000" alt="Status" />
+<img src="https://img.shields.io/badge/SECURITY-ENCRYPTED_%F0%9F%94%92-00FF41?style=for-the-badge&labelColor=000000" alt="Security" />
 
-<img src="https://komarev.com/ghpvc/?username=Mehran-nouri&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-- 🎓 **11th-grade Computer Science student**
-- 💻 **Frontend Developer** — Passionate about building clean and responsive UIs
-- 🌱 Currently learning **React** and **TypeScript**
-- 🎨 Familiar with **Python**, **Git/GitHub**, and **Figma**
-- 🤝 Open to collaborate on frontend projects
-
-<br>
-
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,git,github,figma&perline=8" alt="Tech Stack" />
 </div>
 
 <br>
 
-### 📫 Connect with Me
-
-<div align="center">
-  <a href="mailto:lmn.nml.051@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/mehran__nouri__">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://t.me/MehranME_Channel">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
+<!-- ==================== DIVIDER ==================== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br>
 
-<div align="center">
-  <em>"Code. Build. Learn. Repeat."</em> 🚀
-</div>
+### 🖥️ System Info
+
+```javascript
+// Initializing user profile...
+const mehran = {
+  name: "Mehran Nouri",
+  role: "Frontend Developer",
+  education: "11th-grade Computer Science Student",
+  languages: ["HTML", "CSS", "JavaScript", "Python"],
+  tools: ["Tailwind CSS", "Git", "GitHub", "Figma"],
+  currentFocus: ["React", "TypeScript"],
+  motto: "Code. Build. Learn. Repeat. 🚀"
+};
+
+console.log("Profile loaded successfully ✅");
