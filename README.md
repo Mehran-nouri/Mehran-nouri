@@ -1,190 +1,187 @@
 
 <!--
-  MEHRAN NOURI | GITHUB PROFILE
-  DESIGN: CYBERPUNK / MIDNIGHT BLUE
-  THEME: DARK
-  ACCENT: ICE BLUE (#58a6ff)
+  MEHRAN NOURI
+  CYBERPUNK / TYPOGRAPHY EDITION
+  Dark Theme | Electric Cyan
 -->
-
-<!-- ===================== HERO ===================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,50:0d1117,100:101d32&height=230&section=header&text=MEHRAN&fontSize=85&fontColor=58a6ff&fontAlignY=42&desc=N O U R I&descSize=19&descColor=c9d1d9&descAlignY=66" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080c,50:0d1117,100:09212a&height=180&section=header" />
 
 <br/>
+
+<h1 align="center">
+  MEHRAN<span style="color:#00E5FF">.</span>
+</h1>
 
 <h3>FRONTEND DEVELOPER</h3>
 
 <p>
-  <code>Creative Mind</code> &nbsp; <code>Clean Code</code> &nbsp; <code>Modern Web</code>
+  <code>CREATIVE DEVELOPER</code>
+  &nbsp; / &nbsp;
+  <code>COMPUTER SCIENCE STUDENT</code>
 </p>
 
 <br/>
 
-<img src="https://img.shields.io/badge/BASED_ON-CREATIVITY-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" />
-<img src="https://img.shields.io/badge/FOCUS-FRONTEND-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" />
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS_LEARNING-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" />
+<p>
+  <b>CODE.</b> &nbsp; BUILD. &nbsp; LEARN. &nbsp; REPEAT.
+</p>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND-0d1117?style=flat-square&logo=code&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING-0d1117?style=flat-square&logo=github&logoColor=00E5FF" />
 
 <br/><br/>
-
-<p><b>CODE. BUILD. LEARN. REPEAT.</b></p>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 <div align="center">
 
-<h2>01 / WHO AM I?</h2>
+<sub>01 — INTRODUCTION</sub>
 
-<sub>BEHIND THE CODE</sub>
+# A LITTLE ABOUT ME
 
 </div>
 
-<br/>
+I'm **Mehran Nouri** — a frontend developer passionate about technology, creative ideas, and building digital experiences.
 
-Hey! I'm **Mehran Nouri**, a frontend developer and computer science student passionate about creating modern digital experiences.
-
-I enjoy experimenting with technologies, solving problems, and transforming ideas into functional interfaces.
+Currently studying Computer Science and exploring the world of modern web development.
 
 ```javascript
 const mehran = {
-    name: "Mehran Nouri",
-    role: "Frontend Developer",
-    education: "11th Grade | Computer Science",
+  name: "Mehran Nouri",
+  role: "Frontend Developer",
+  education: "11th Grade · Computer Science",
 
-    languages: ["HTML", "CSS", "JavaScript", "Python"],
+  languages: ["HTML", "CSS", "JavaScript", "Python"],
+  tools: ["Tailwind CSS", "Git", "Figma"],
 
-    tools: ["Tailwind CSS", "Git", "Figma"],
+  currentlyLearning: ["React", "TypeScript"],
 
-    learning: ["React", "TypeScript"],
-
-    motto: "Code. Build. Learn. Repeat."
+  motto: "Code. Build. Learn. Repeat."
 };
 ```
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
 <div align="center">
 
-<h2>02 / TECH STACK</h2>
+<sub>02 — TECHNOLOGIES</sub>
 
-<sub>TOOLS OF MY TRADE</sub>
+# THE TOOLBOX
 
-<br/><br/>
-
-**// LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+<sub>Technologies I use to turn ideas into reality.</sub>
 
 <br/><br/>
-
-**// FRAMEWORKS & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=tailwind,git,figma&theme=dark" />
-
-<br/><br/>
-
-**// CURRENTLY EXPLORING**
-
-<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" />
 
 </div>
 
----
+**01 / CORE LANGUAGES**
 
-<!-- ===================== LEARNING ===================== -->
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
+
+**02 / TOOLS & WORKFLOW**
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E" />
+</p>
+
+**03 / CURRENTLY EXPLORING**
+
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+</p>
+
+---
 
 <div align="center">
 
-<h2>03 / CURRENTLY LEARNING</h2>
+<sub>03 — LEARNING PATH</sub>
 
-<sub>THE NEXT STEP IN MY JOURNEY</sub>
+# ALWAYS EVOLVING
 
-<br/><br/>
+<br/>
 
 </div>
 
 <table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
-
-**React**
-
-<sub>Building modern UI experiences</sub>
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/>
-
-**TypeScript**
-
-<sub>Writing more reliable JavaScript</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="42" />
+      <br/>
+      **REACT**
+      <br/>
+      <sub>Modern UI Development</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="42" />
+      <br/>
+      **TYPESCRIPT**
+      <br/>
+      <sub>Type-Safe JavaScript</sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
-
 <div align="center">
 
-<h2>04 / LET'S CONNECT</h2>
+<sub>04 — CONNECTION</sub>
 
-<sub>OPEN TO IDEAS, PROJECTS & CONNECTIONS</sub>
+# LET'S CONNECT.
+
+<sub>Have an idea? Let's make something interesting.</sub>
 
 <br/><br/>
 
 <a href="mailto:lmn.nml.051@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" />
 </a>
-
 <a href="https://instagram.com/mehran__nouri__">
-<img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-0d1117?style=for-the-badge&logo=instagram&logoColor=00E5FF" />
 </a>
-
 <a href="https://t.me/MehranME_Channel">
-<img src="https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/TELEGRAM-0d1117?style=for-the-badge&logo=telegram&logoColor=00E5FF" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/Mehran-nouri">
-<img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
 </a>
+
+<br/><br/>
 
 </div>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-
 <div align="center">
 
-<br/>
+<h2>THINK. CREATE. REPEAT.</h2>
 
-<img src="https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" />
-
-<br/><br/>
-
-### `01001101 01000101 01001000 01010010 01000001 01001110`
-
-**Building something meaningful, one line at a time.**
-
-<sub>© 2026 Mehran Nouri · Crafted with passion & code.</sub>
+<sub>Every line of code is another step forward.</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101d32,50:0d1117,100:05080f&height=140&section=footer" />
+<img src="https://img.shields.io/badge/BUILT%20WITH-DEDICATION-0d1117?style=flat-square&logo=github&logoColor=00E5FF" />
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09212a,50:0d1117,100:05080c&height=130&section=footer" />
 
 </div>
